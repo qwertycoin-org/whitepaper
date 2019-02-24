@@ -4,7 +4,8 @@
 
 ### Whitepaper
 
-You can download the newest version of our wallpaper here: (https://github.com/qwertycoin-org/whitepaper/blob/master/whitepaper.pdf)
+You can download the newest version of our whitepaper here:
+(https://github.com/qwertycoin-org/whitepaper/blob/master/whitepaper.pdf)
 
 ## Donate
 
