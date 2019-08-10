@@ -37,18 +37,23 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 * User Population over 1 million
 * E-Commerce/Woo-Commerce Integration + Local Stores as Fiat Exchange
 
-
 # Index
-1. Introduction
-2. Vision
-3. How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW - Cryptonight Based Variant)
-4. Transition from EPoW to EPoSe in QWC Network
-5. How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe - QWC Original)
-6. Blockchain Development Roadmap
-7. Exchange Listing and Pricing Strategies
-8. Future Directions for the Team
+1. [Introduction](#introduction)
+2. [Vision](#vision)
+3. [How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW - Cryptonight Based Variant)](#howtogetcoinsmining)
+4. [Transition from EPoW to EPoSe in QWC Network](#transition)
+5. [How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe - QWC Original)](#howtogetcoinsmasternode)
+6. [Blockchain Development Roadmap](#blockchainroadmap)
+7. [Exchange Listing and Pricing Strategies](#exchangelisting)
+-- [Listed Exchanges](#listedexchanges)
+-- [Next Target Exchanges]](#nexttargetexchanges)
+8. [Future Directions for the Team](#futureroadmap)
+9. [Credits](#credits)
+-- [Core Team](#credits-coreteam)
+-- [External Contributors ](#credits-external)
 
-## Introduction
+
+## Introduction <a name="introduction"></a>
 Qwertycoin (Ticker: QWC) is a real community cryptocurrency, a decentralized digital asset, like Bitcoin. It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new algorithm concept exclusive to QWC.
 Qwertycoin transactions are untraceable, unlinkable and your privacy is protected. Mathematics secures the QWC network and empowers individuals to control their own finance and information.
 
@@ -62,7 +67,7 @@ Qwertycoin transactions are untraceable, unlinkable and your privacy is protecte
 |Mobile Wallet for iOS and Android:|Please visit iOS App Store and Google Play Store|
 |Official pool:|https://pool.qwertycoin.org
 |3rd Party Pools:|https://explorer.qwertycoin.org/#pools
-Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
+|Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
 |Master Node Map:|https://nodes.qwertycoin.org|
 |Voting Platform:|https://voting.qwertycoin.org|
 |Light Theme Logo:|https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png|
@@ -82,7 +87,7 @@ Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI vers
 |Telegram:|https://t.me/qwc_support|
 |Email:|support@qwertycoin.org|
 
-## Vision
+## Vision <a name="vision"></a>
 * Reliable, fast and easy to use / user-friendly blockchain service
 * Decentralized development from crowd efforts and funding
 * Privacy protection for the members of its network
@@ -97,7 +102,8 @@ QWC team operates under the unanimous consensus of transparent management for al
 
 [Figure 2. Total QWC in Circulation per Date]
 ![qwertycoin-figure2](https://cdn.qwertycoin.org/images/other/whitepaper/figure2.png "Figure 2. Total QWC in Circulation per Date")
-## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant)
+
+## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant) <a name="howtogetcoinsmining"></a>
 The word egalitarian stands for providing equal rights and equal opportunities. QWC network is an open source and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
 Cryptonote Technology V2.0 has a built-in block reward system called emission rate. It is a shape of log function and, because of its original design, QWC block rewards will reduce by each block found and eventually reach a point called ‘tail emission’. 
 QWC has an emission factor of 19. Please refer to below graphs to see how block rewards are reduced over time.
@@ -121,7 +127,7 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 Please go to our explorer page (https://explorer.qwertycoin.org/#pools) and select a pool to mine from. Each pool provides information and a guide to setup for mining. Users can also mine with CPU using a built-in mining feature in QWC Desktop Wallet Software.
 Make sure to create a wallet address before you start mining QWC. You can download QWC user manual for the assistance.
 
-## Transition from EPoW to EPoSe in QWC Network
+## Transition from EPoW to EPoSe in QWC Network <a name="transition"></a>
 
 As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can increase close to 4 TB at 99.95% QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
 
@@ -176,7 +182,7 @@ The appropriate timing for this transition is to be decided by the community mem
 **The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000.
 ***Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship.
 
-## How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe – QWC Original)
+## How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe – QWC Original) <a name="howtogetcoinsmasternode"></a>
 Again, the word egalitarian stands for providing equal rights and equal opportunities. It is free to run a QWC masternode since node reward program does not offer a staking option for providing a node. In order for nodes to receive rewards, a node must be configured and used as a remote daemon in wallet software. Based on the number of transactions processed in remote daemon connections, Maximum 10 QWC is rewarded per transaction. [June 29th, 2018]
 **QWC nodes perform following tasks in the network.**
 1. Holding transactions in the memory pool so that a miner can find a block with a group of these transactions
@@ -217,7 +223,7 @@ There will be several conformance and performance criteria evaluation for nodes 
 |<= 400 kb|1 mb|2 Tx|1,440 Tx|8,000 QWC/Tx|80.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
 |> 400 kb|1 mb|1 Tx|1,440 Tx|10,000 QWC/TX|100.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
 
-## Blockchain Development Roadmap
+## Blockchain Development Roadmap <a name="blockchainroadmap"></a>
 1. **Stage 1:** Currency Application Development (2017 – By the end of 2019)
 * Daemon Development and Optimization
 * CLI Wallet / Desktop Wallet Development and Optimization
@@ -259,7 +265,7 @@ The core team wants to review the entire codebase of CryptoNote V2.0 forked from
 
 Please check the current status of the roadmap from the official webpage. (V) and (U) stand for done and under development status respectively.
 
-## Exchange Listing and Pricing Strategies
+## Exchange Listing and Pricing Strategies <a name="exchangelisting"></a>
 **It is important to inform our members that your registrations on exchange platforms with personal information such as ID and bank/credit card accounts will/can expose your identity and your actions and outcomes from trading activities can be subjected to applicable laws and regulations.**
 
 In the early stage, QWC experienced issues with exchanges (Octaex(China), Crepcoin Exchange(Decentralized), Altex Exchange(Decentralized)) arising from various factors such as delays or lack of support, site shut-downs and service terminations, which caused damages to QWC members. 
@@ -270,7 +276,7 @@ From past experience and failure to select proper exchanges for trading, the lis
 * To be listed on exchanges a verified business entity with a registration with transparency, reputation, volume and history
 * To be listed on market tracker websites for broaden market exposure and bring awareness
 
-### Listed Exchanges
+### Listed Exchanges <a name="listedexchanges"></a>
 1.	Crex24/Estonia – Funded by QWC Team [BTC]
 2.	BitexLIVE/Turkey – Funded by QWC Team [BTC (when QWC > 1 Satoshi) / DOGE]
 3.	Fedlio/Singapore or Seychelles – Funded by QWC Team [ETH / BCHABC / DASH] – **Warning for withdrawal issues!**
@@ -283,7 +289,7 @@ From past experience and failure to select proper exchanges for trading, the lis
 
 ***QWC community members should be aware that the listing contract can be nullified if there is not enough trading volume.***
 
-### Next Target Exchanges
+### Next Target Exchanges <a name="nexttargetexchanges"></a>
 
 1. STEX – To be funded by QWC Community [LTC]
 Closed Exchanges
@@ -298,11 +304,11 @@ Due to excessive listing price of major exchanges, community donations are requi
 Qwertycoin team firmly believes in the free market theory. That is why the initial listing price was at 0.01 satoshi. Our community strongly insisted on 1 satoshi listing during the poll and debate during the first exchange listing. 
 After listing, all other coins with similar structure had to join the initial pricing strategy of QWC because they realized 1 satoshi for 184.47 billion coins with a high emission rate is just not realistic without any form or premine or ICO/IEO.
 
-## Future Directions for the Team and the Community Members
+## Future Directions for the Team and the Community Members <a name="futureroadmap"></a>
 A. Multi Language Support (Wallet Software and Web)
 Qwertycoin wallet platforms(Desktop/Web/Mobile) and QWC official websites will support multiple languages. English is the default language for the software services. Additional language updates shall be requested through official communication channels.
 
-### B. Transforming QWC into Blockchain 3.0 
+### B. Transforming QWC into Blockchain 3.0  <a name="transformingqwc"></a>
 QWC developers and communities shall find work towards to get below all five properties.
 * High Scalability
 * Interoperability
@@ -310,7 +316,7 @@ QWC developers and communities shall find work towards to get below all five pro
 * Privacy
 * Governance
 
-#### B-1. High Scalability
+#### B-1. High Scalability <a name="scalability"></a>
 As written in the main part of this whitepaper, Blockchain size grows in linear trend under a fixed set of parameters. These configurations such as block time and block size embedded in codes will have be changed from QWC blockchain in the future depending on the outcome of QWC’s high scalability solution.
 QWC proposes to solve this scalability issue by generating a new (genesis) reference block after a fixed interval. Our approach is different from a hard fork, which most cryptocurrency developers opt to choose for solving this issue.
 The validation of ring signature back to genesis block will add significant loads to QWC network in the later stage of any blockchain as the number of transactions increases. To minimize this bottle neck, a mega block will be issued. Since the ring signature verifications on this mega block will be confirmed by checking all previous signatures from the previous blocks, this block can act as a new reference point for future ring signature verifications thereafter.
@@ -325,7 +331,7 @@ In order to create this genesis reference block, all wallets initiate self-trans
 4. Synchronization (Automatic download of the reference block) feature after reference block creation for daemon.
 A higher transaction fee will be charged to wallets that failed to be included(or make a self-transaction) in the reference block for additional loads on QWC network as a penalty, but it also motivates users to adapt to mobile/web wallet environment, that boosts the effectiveness of QWC’s scalability solution.
 
-#### B-2. Interoperability and Privacy (Through Reserve Requirement System [The Purpose of Qwertycoin Foundation] and Billionaire Club)
+#### B-2. Interoperability and Privacy (Through Reserve Requirement System [The Purpose of Qwertycoin Foundation] and Billionaire Club) <a name="billionairesclub"></a>
 The fundamental of blockchain interoperability largely depends on the basic algorithm on which cryptocurrencies are built. It will come down to choices of cryptocurrency systems or platforms that are popular and how many businesses/entities/organizations/communities are willing to build blockchains above such platform. QWC is a cryptocurrency and it means that it should be able to convert to other cryptocurrencies at users’ discretions and used as a mean of payment.
 Privacy is compromised when they make a C2C or C2F transactions through an exchange platform with AML and KYC processes in place.
 To solve these two issues, QWC team proposes the following solution with three prerequisites.	
@@ -360,15 +366,15 @@ Seller(Lender)/Buyer(Loaner) -> Qwerty Wallet -> C2C Exchange based on Best Mark
 For this type of trade It is important to inform our members that your registrations on exchange platforms with personal information such as ID and bank/credit card accounts will/can expose your identity and your actions and outcomes from trading activities can be subjected to applicable laws and regulations. We are dealing with centralized currencies and their systems in the end. This service is not an option for QWC network.
 For cryptocurrency to fiat exchange, it would be the best to have local stores and businesses to engage and host an individual/independent exchange to allow more decentralized network of QWC blockchain. There will be no requirement of personal information for this type of transactions.
 
-#### B-3. Sustainability
+#### B-3. Sustainability <a name="substainability"></a>
 Through EPoSe in place, there will be an infinite circulation of incentives among network service providers and it will energy-wise more efficient for our environments. QWC blockchain and its infrastructure is supported by the core team and the source code is provided as an open source on github for 3rd party integration. The more 3rd parties services are provided, the less involvement of core team will take place in the service.
 
-#### B-4. Governance
+#### B-4. Governance <a name="governance"></a>
 The most important part of the governance is the incentive system for participants. Please refer to EPoW and EPoSe sections of this white paper.
 Unless Process Automation or AI takes over the entire development and implementation of new features or updates, QWC blockchain will have a centralized authority run by human that develops features, manages implementations/updates and provides support for the service.
 QWC team (a centralized authority that consists of a group of people who volunteer to provide services) reflects the decisions of QWC community through a community voting system. All QWC members can participate in making community-wide decisions.
 
-## Revision History
+## Revision History <a name="revision"></a>
 
 |Version|Author(s)|Channel|Announce Date|
 |:---|:--- |---: |---: 
@@ -379,10 +385,10 @@ QWC team (a centralized authority that consists of a group of people who volunte
 |1.1|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|June 23th, 2019|
 |1.2|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|August 7th, 2019|
 
-# Credits
+# Credits <a name="credits"></a>
 This section provides information about QWC Core Team members and contributors. This section is to be revised periodically and previous core team members and significant contributors shall remain as well.
 
-### Core Team
+### Core Team <a name="credits-coreteam"></a>
 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
@@ -399,7 +405,7 @@ This section provides information about QWC Core Team members and contributors. 
 |Michael|ghost1x   |    -|-|Designer                   |Germany||
 |Dennis |axecrypt  |    -|-|Exchange Manager           |Germany||
 
-### External Contributors
+### External Contributors <a name="credits-external"></a>
 |Name|Contribution Details|
 |:-----------|:--------|
 |Spectr|Please check pull requests of qwertycoin / qwertycoin-gui / qwertycoin-zero repositories on github.|
@@ -407,7 +413,6 @@ This section provides information about QWC Core Team members and contributors. 
 |Biz|Please check on github.|
 
 Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service.
-
 
 ## Donate
 
