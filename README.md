@@ -8,7 +8,7 @@ You can download the newest version of our whitepaper here:
 # Qwertycoin White Paper
 _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms._
 
- ![qwertycoin-info](https://cdn.qwertycoin.org/images/other/btt/en/top.png "Qwertycoin Overview")
+![qwertycoin-info](https://cdn.qwertycoin.org/images/other/btt/en/top.png "Qwertycoin Overview")
 
 ## FEATURES
 * Anonymous, Unlinkable and Untraceable Transactions - Based on CryptoNote V2.0 Technology over a decentralized network.
@@ -22,12 +22,12 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 
 ## TECHNICAL SPECIFICATIONS
 |Fact|Spec|
-|:---- | ----------:|
-|Total Number of Coins: |184.47 Billion|
-|Current Target Block Time: |120 seconds -> 20 seconds|
-|Time for Transaction Hashes: |Instant (<4 seconds)|
-|Core Design: |CryptoNote V2.0|
-|Forked from: |Bytecoin, Monero + Karbowanek + Digitalnote and Qwertycoin V1.0|
+|:----|----------:|
+|Total Number of Coins:|184.47 Billion|
+|Current Target Block Time:|120 seconds -> 20 seconds|
+|Time for Transaction Hashes:|Instant (<4 seconds)|
+|Core Design:|CryptoNote V2.0|
+|Forked from:|Bytecoin, Monero + Karbowanek + Digitalnote and Qwertycoin V1.0|
 
 ## ULTIMATE PROJECT GOALS
 * Development of User-Friendly Wallet Software for Desktop/Mobile Computers, Web and Mobile Phones
@@ -37,7 +37,7 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 * User Population over 1 million
 * E-Commerce/Woo-Commerce Integration + Local Stores as Fiat Exchange
 
-	 
+
 # Index
 1. Introduction
 2. Vision
@@ -53,37 +53,36 @@ Qwertycoin (Ticker: QWC) is a real community cryptocurrency, a decentralized dig
 Qwertycoin transactions are untraceable, unlinkable and your privacy is protected. Mathematics secures the QWC network and empowers individuals to control their own finance and information.
 
 ### Official Links:
-|Link |Source|
-|:---- | ----------:|
-|Github Source Code: |https://github.com/qwertycoin-org|
-|Bitcoin Talk Thread: |https://bitcointalk.org/index.php?topic=2881418.0|
-|Desktop Wallet & Daemon Download for Windows, Linux and MacOS: |https://qwertycoin.org/wallet/#downloads
-|Web Wallet: |https://myqwertycoin.com|
-|Mobile Wallet for iOS and Android: |Please visit iOS App Store and Google Play Store|
-|Official pool: |https://pool.qwertycoin.org
-|3rd Party Pools: |https://explorer.qwertycoin.org/#pools
-Master Node Daemon Download: |https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
-|Master Node Map: |https://nodes.qwertycoin.org|
-|Voting Platform: |https://voting.qwertycoin.org|
-|Light Theme Logo: |https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png|
+|Link|Source|
+|:----|----------:|
+|Github Source Code:|https://github.com/qwertycoin-org|
+|Bitcoin Talk Thread:|https://bitcointalk.org/index.php?topic=2881418.0|
+|Desktop Wallet & Daemon Download for Windows, Linux and MacOS:|https://qwertycoin.org/wallet/#downloads
+|Web Wallet:|https://myqwertycoin.com|
+|Mobile Wallet for iOS and Android:|Please visit iOS App Store and Google Play Store|
+|Official pool:|https://pool.qwertycoin.org
+|3rd Party Pools:|https://explorer.qwertycoin.org/#pools
+Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
+|Master Node Map:|https://nodes.qwertycoin.org|
+|Voting Platform:|https://voting.qwertycoin.org|
+|Light Theme Logo:|https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png|
 
 ### Community Links:
-|Link |Source|
-|:---- | ----------:|
-|Telegram: |https://t.me/qwertycoin|
-|Facebook: |https://www.facebook.com/Qwertycoin-422694361519282/|
-|Discord: |https://discord.gg/U5amwCs|
-|Twitter: |https://twitter.com/Qwertycoin_QWC|
-|Reddit: |https://www.reddit.com/r/QWERTYCOIN/|
+|Link|Source|
+|:----|----------:|
+|Telegram:|https://t.me/qwertycoin|
+|Facebook:|https://www.facebook.com/Qwertycoin-422694361519282/|
+|Discord:|https://discord.gg/U5amwCs|
+|Twitter:|https://twitter.com/Qwertycoin_QWC|
+|Reddit:|https://www.reddit.com/r/QWERTYCOIN/|
 
-### Support |& Contact Information
-|Link |Source|
-|:---- | ----------:|
-|Telegram: |https://t.me/qwc_support|
-|Email: |support@qwertycoin.org|
+### Support & Contact Information
+|Link|Source|
+|:----|----------:|
+|Telegram:|https://t.me/qwc_support|
+|Email:|support@qwertycoin.org|
 
 ## Vision
-
 * Reliable, fast and easy to use / user-friendly blockchain service
 * Decentralized development from crowd efforts and funding
 * Privacy protection for the members of its network
@@ -95,7 +94,7 @@ QWC team operates under the unanimous consensus of transparent management for al
 
 [Figure 1. Total QWC in Circulation per Bloch Height]
 ![qwertycoin-figure1](https://cdn.qwertycoin.org/images/other/whitepaper/figure1.png "Figure 1. Total QWC in Circulation per Bloch Height")
- 
+
 [Figure 2. Total QWC in Circulation per Date]
 ![qwertycoin-figure2](https://cdn.qwertycoin.org/images/other/whitepaper/figure2.png "Figure 2. Total QWC in Circulation per Date")
 ## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant)
@@ -107,13 +106,14 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 ![qwertycoin-figure3](https://cdn.qwertycoin.org/images/other/whitepaper/figure3.png "Figure 3. Block Reward Reduction per Block Height")
 [Figure 4. Block Reward Reduction per Date]
 ![qwertycoin-figure4](https://cdn.qwertycoin.org/images/other/whitepaper/figure4.png "Figure 4. Block Reward Reduction per Date")
+
 **History of Mining Algorithm Changes**
-| -|Block Height |From |To |Supporting Mining Equipment and Service|
-|:--- |----|----|----|----|
-|Initial |0 |Cryptonight |- |CPU, GPU, FGPA, ASIC, Nicehash
-|1st Change |115,250 |Cryptonight |Cryptonight- Heavy |CPU, GPU / The rest are penalized.|
-|2nd Change |250,720 |Cryptonight Heavy |Cryptonight |CPU, GPU, FGPA, ASIC, Nicehash|
-|3rd Change |T.B.D. |T.B.D. |T.B.D. |T.B.D.|
+|-|Block Height|From|To|Supporting Mining Equipment and Service|
+|:---|----|----|----|----|
+|Initial   |     0|Cryptonight|-                |CPU, GPU, FGPA, ASIC, Nicehash|
+|1st Change|115,250|Cryptonight|Cryptonight- Heavy|CPU, GPU / The rest are penalized.|
+|2nd Change|250,720|Cryptonight Heavy|Cryptonight |CPU, GPU, FGPA, ASIC, Nicehash|
+|3rd Change|T.B.D.|    T.B.D.|T.B.D.            |T.B.D.|
 
 ***Qwertycoin core team is committed to reflect the decisions of the community regarding major changes in the future through community voting system.***
 
@@ -143,41 +143,36 @@ The appropriate timing for this transition is to be decided by the community mem
 ![qwertycoin-figure7](https://cdn.qwertycoin.org/images/other/whitepaper/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
 
 [Table 1. Transition Timing Proposal from EPoW to EPoSe]
-|Transition Timing Table |Proposal #7 |Proposal #8 |Proposal #9 |Proposal #10 |Proposal #11 |Proposal #12 |
-|:---- |----: |----: |----: |----: |----: |----: |
-|QWC Block Height: |200,000 |250,000 |300,000 |350,000 |400,000 |450,000|
-|Single Block Reward: |240,000 QWC |218,000 QWC |198,500 QWC |180,400 QWC |164,000 QWC |149,000 QWC|
-|24 Hour Block Reward: |172,800,000 QWC |156,960,000 QWC |142,920,000 QWC |129,888,000 QWC |118,080,000 QWC |107,280,000 QWC|
-|Expected Number of Mobil Users: |100 Users |150 Users |300 Users |350 Users |400 Users |450 Users|
-|Expected Storage Capacity: |200 GB |250 GB |300 GB |350 GB |400 GB |450 GB|
-|Expected Net Hash Rate: |2.0 MH |2.5 MH |3.0 MH |3.5 MH |4.0 MH |4.5 MH|
-|Expected Daily Return of 1K Hash Rate: |86,400 QWC |62,784 QWC |47,640 QWC |37,110 QWC |29,520 QWC |23,840 QWC|
-|GPU Mining Profitability*: |QWC > 0.00002 USD |QWC > 0.00003 USD |QWC > 0.00004 USD |QWC > 0.00005 USD |QWC > 0.00006 USD |QWC > 0.00008 USD|
-|CPU Mining / Node Profitability**: |QWC > 0.000004 USD |QWC > 0.000006 USD |QWC > 0.000008 USD |QWC >0.000010 USD |QWC > 0.000012 USD |QWC > 0.000016 USD|
-|Expected Date of Height: |2018.11.3 |2019.1.2 |2019.3.22 |2019.5.31 |2019.8.8 |2019.10.17
-
- [Table 2. Transition Timing Proposal from EPoW to EPoSe]
-|Transition Timing Table |Proposal #7 |Proposal #8 |Proposal #9 |Proposal #10 |Proposal #11 |Proposal #12 |
-|:---- |----: |----: |----: |----: |----: |----: |
-|QWC Block Height: |500,000 |700,000 |900,000 |1,000,000 |1,500,000 |2,000,000|
-|Single Block Reward: |135,000 QWC |92,500 QWC |63,200 QWC |52,000 QWC |20,000 QWC |7,750 QWC|
-|24 Hour Block Reward: |97,200,000 QWC |66,600,000 QWC |45,504,000 QWC |37,440,000 QWC |14,400,000 QWC |5,580,000 QWC
-|Expected Number of Mobil Users: |500 Users |700 Users |900 Users |1,000 Users |1,500 Users |2,000 Users
-|Expected Storage Capacity: |500 GB |700 GB |900 GB |1.0 TB |1.5 TB |2.0 TB|
-|Expected Net Hash Rate: |5.0 MH |7.0 MH |9.0 MH |10.0 MH |15.0 MH |20.0 MH|
-|Expected Daily Return of 1K Hash Rate: |19,440 QWC |9,514 QWC |5,056 QWC |3,774 QWC |960 QWC |279 QWC
-|GPU Mining Profitability*: |QWC > 0.0001 USD |QWC > 0.0002 USD |QWC > 0.0004 USD |QWC > 0.0006 USD |QWC > 0.0022 USD |QWC > 0.008 USD
-|CPU Mining / Node Profitability**: |QWC > 0.000025 USD |QWC > 0.00004 USD |QWC > 0.00008 USD |QWC > 0.00012 USD |QWC > 0.0004 USD |QWC > 0.0016 USD|
-|Expected Date of Height: |2019.12.25 |2020.9.28 |2021.7.3 |2021.11.18 |2023.10.14 |2025.9.7
-
+|Transition Timing Table|Proposal #7|Proposal #8|Proposal #9|Proposal #10|Proposal #11|Proposal #12|
+|:----|----:|----:|----:|----:|----:|----:|
+|QWC Block Height:|200,000|250,000|300,000|350,000|400,000|450,000|
+|Single Block Reward:|240,000 QWC|218,000 QWC|198,500 QWC|180,400 QWC|164,000 QWC|149,000 QWC|
+|24 Hour Block Reward:|172,800,000 QWC|156,960,000 QWC|142,920,000 QWC|129,888,000 QWC|118,080,000 QWC|107,280,000 QWC|
+|Expected Number of Mobil Users:|100 Users|150 Users|300 Users|350 Users|400 Users|450 Users|
+|Expected Storage Capacity:|200 GB|250 GB|300 GB|350 GB|400 GB|450 GB|
+|Expected Net Hash Rate:|2.0 MH|2.5 MH|3.0 MH|3.5 MH|4.0 MH|4.5 MH|
+|Expected Daily Return of 1K Hash Rate:|86,400 QWC|62,784 QWC|47,640 QWC|37,110 QWC|29,520 QWC|23,840 QWC|
+|GPU Mining Profitability*:|QWC > 0.00002 USD|QWC > 0.00003 USD|QWC > 0.00004 USD|QWC > 0.00005 USD|QWC > 0.00006 USD|QWC > 0.00008 USD|
+|CPU Mining / Node Profitability**:|QWC > 0.000004 USD|QWC > 0.000006 USD|QWC > 0.000008 USD|QWC >0.000010 USD|QWC > 0.000012 USD|QWC > 0.000016 USD|
+|Expected Date of Height:|2018.11.3|2019.1.2|2019.3.22|2019.5.31|2019.8.8|2019.10.17
+[Table 2. Transition Timing Proposal from EPoW to EPoSe]
+|Transition Timing Table|Proposal #7|Proposal #8|Proposal #9|Proposal #10|Proposal #11|Proposal #12|
+|:----|----:|----:|----:|----:|----:|----:|
+|QWC Block Height:|500,000|700,000|900,000|1,000,000|1,500,000|2,000,000|
+|Single Block Reward:|135,000 QWC|92,500 QWC|63,200 QWC|52,000 QWC|20,000 QWC|7,750 QWC|
+|24 Hour Block Reward:|97,200,000 QWC|66,600,000 QWC|45,504,000 QWC|37,440,000 QWC|14,400,000 QWC|5,580,000 QWC
+|Expected Number of Mobil Users:|500 Users|700 Users|900 Users|1,000 Users|1,500 Users|2,000 Users
+|Expected Storage Capacity:|500 GB|700 GB|900 GB|1.0 TB|1.5 TB|2.0 TB|
+|Expected Net Hash Rate:|5.0 MH|7.0 MH|9.0 MH|10.0 MH|15.0 MH|20.0 MH|
+|Expected Daily Return of 1K Hash Rate:|19,440 QWC|9,514 QWC|5,056 QWC|3,774 QWC|960 QWC|279 QWC
+|GPU Mining Profitability*:|QWC > 0.0001 USD|QWC > 0.0002 USD|QWC > 0.0004 USD|QWC > 0.0006 USD|QWC > 0.0022 USD|QWC > 0.008 USD
+|CPU Mining / Node Profitability**:|QWC > 0.000025 USD|QWC > 0.00004 USD|QWC > 0.00008 USD|QWC > 0.00012 USD|QWC > 0.0004 USD|QWC > 0.0016 USD|
+|Expected Date of Height:|2019.12.25|2020.9.28|2021.7.3|2021.11.18|2023.10.14|2025.9.7
 *The assumption for GPU mining profitability is calculated based on AMD GPU with Cryptonight hash rate of 1,000.
 **The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000.
 ***Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship.
-
 ## How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe – QWC Original)
-
 Again, the word egalitarian stands for providing equal rights and equal opportunities. It is free to run a QWC masternode since node reward program does not offer a staking option for providing a node. In order for nodes to receive rewards, a node must be configured and used as a remote daemon in wallet software. Based on the number of transactions processed in remote daemon connections, Maximum 10 QWC is rewarded per transaction. [June 29th, 2018]
-
 **QWC nodes perform following tasks in the network.**
 1. Holding transactions in the memory pool so that a miner can find a block with a group of these transactions
 2. Verifying one-time ring signature of entire blockchain
@@ -206,15 +201,15 @@ There will be several conformance and performance criteria evaluation for nodes 
 6.	EPoSe algorithm functions just like mining but provides infinite rewards throughout the lifetime of QWC blockchain without causing any inflation.
 
 [Table 1. Transaction Fee & EPoSe Rewards Estimation]
-|Median |Max Blk.Size |Tx per block |Daily Tx Throughput |Transaction Fee |Multiplier |Transaction Fee (Approx.) per Blk. |Blk. per Day |Ex. Tx Rewards Available for Uptime Nodes |
+|Median|Max Blk.Size|Tx per block|Daily Tx Throughput|Transaction Fee|Multiplier|Transaction Fee (Approx.) per Blk.|Blk. per Day|Ex. Tx Rewards Available for Uptime Nodes|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:
-|<= 5 kb |1 mb |200 Tx |144,000 Tx |20 QWC/kb |1.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|<= 25 kb |1 mb |40 Tx |28,800 Tx |500 QWC/Tx |5.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|<= 100 kb |1 mb |10 Tx |7,200 Tx |2,000 QWC/Tx |20.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|<= 200 kb |1 mb |5 Tx |3,600 Tx |4,000 QWC/Tx |40.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|<= 300 kb |1 mb |3 Tx |2,160 Tx |6,670 QWC/Tx |66.7 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|<= 400 kb |1 mb |2 Tx |1,440 Tx |8,000 QWC/Tx |80.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
-|> 400 kb |1 mb |1 Tx |1,440 Tx |10,000 QWC/TX |100.0 X |20,000 QWC |720 |14,400,000 QWC + Mining Block Rewards|
+|<= 5 kb|1 mb|200 Tx|144,000 Tx|20 QWC/kb|1.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|<= 25 kb|1 mb|40 Tx|28,800 Tx|500 QWC/Tx|5.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|<= 100 kb|1 mb|10 Tx|7,200 Tx|2,000 QWC/Tx|20.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|<= 200 kb|1 mb|5 Tx|3,600 Tx|4,000 QWC/Tx|40.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|<= 300 kb|1 mb|3 Tx|2,160 Tx|6,670 QWC/Tx|66.7 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|<= 400 kb|1 mb|2 Tx|1,440 Tx|8,000 QWC/Tx|80.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
+|> 400 kb|1 mb|1 Tx|1,440 Tx|10,000 QWC/TX|100.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
 
 ## Blockchain Development Roadmap
 1. **Stage 1:** Currency Application Development (2017 – By the end of 2019)
@@ -279,7 +274,7 @@ From past experience and failure to select proper exchanges for trading, the lis
 7.	QBTC/China – Promoted by QWC Chinese Community [CNYT]
 8.	Tyche/Unknown – Promoted by QWC Team [ETH / USDT / DOGE / TEX]
 9.	Altilly/HK – Funded by QWC Team [BTC / ETH / DOGE / XQR]
-	
+
 ***QWC community members should be aware that the listing contract can be nullified if there is not enough trading volume.***
 
 ### Next Target Exchanges
@@ -369,37 +364,37 @@ QWC team (a centralized authority that consists of a group of people who volunte
 
 ## Revision History
 
-|Version |Author(s) |Channel |Announce Date|
-|:--- |:---  |---:  |---: 
-|0.1 |Xecute, QWC Team |Official Telegram |May 28th, 2018|
-|0.7 |Xecute, QWC Team |Official Telegram |August 30th, 2018|
-|0.9 |Xecute, QWC Team |Official Telegram, Github, Twitter, Bitcointalk |September 4th, 2018|
-|1.0 |Xecute, QWC Team |Official Telegram, Github, Twitter, Bitcointalk |November 11th, 2018|
-|1.1 |Xecute, QWC Team |Official Telegram, Github, Twitter, Bitcointalk |June 23th, 2019|
-|1.2 |Xecute, QWC Team |Official Telegram, Github, Twitter, Bitcointalk |August 7th, 2019|
+|Version|Author(s)|Channel|Announce Date|
+|:---|:--- |---: |---: 
+|0.1|Xecute, QWC Team|Official Telegram|May 28th, 2018|
+|0.7|Xecute, QWC Team|Official Telegram|August 30th, 2018|
+|0.9|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|September 4th, 2018|
+|1.0|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|November 11th, 2018|
+|1.1|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|June 23th, 2019|
+|1.2|Xecute, QWC Team|Official Telegram, Github, Twitter, Bitcointalk|August 7th, 2019|
 
 # Credits
 This section provides information about QWC Core Team members and contributors. This section is to be revised periodically and previous core team members and significant contributors shall remain as well.
 
 ### Core Team
 
-|Name  |Nick |Full/Part Time |Background |Role in QWC Team |Home |Misc. |
-|:- |:- |:-----------------:| -------:|--------------------:| -----:| :-----|
-|Alex    |nnian      |     -|Engineer |Lead Developer       |Germany|Founder|
-|Jeka    |           |     -|Engineer |macOS Lead          |Germany||
-|Pascal  |           |     -|Engineer |IT Lead             |Germany||
-|Jordan  |Anonymous  |     -|Designer |                     |Australia||
-|Jason   |Xecute     |     -| -| Team Lead & Finance Officer |||
-|Satish  |Mavericminer |   -| -| - | | 
-|Brent   |FranklinsAce |   -| -| - | | 
-|Jeff Lee|           |     -|Engineer |IT & Infrastructure |||
-|Marc    |ExploShot  |     -|-|Developer & Mobile Lead     |Germany||
-|Lee     |Spek Oregonian |-|-|Speaker|| 
-|Michael |ghost1x    |     -|-|Designer                    |Germany||
-|Dennis  |axecrypt   |     -|-|Exchange Manager            |Germany||
+|Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
+|:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
+|Alex   |nnian     |    -|Engineer|Lead Developer      |Germany|Founder|
+|Jeka   |         |    -|Engineer|macOS Lead         |Germany||
+|Pascal |         |    -|Engineer|IT Lead            |Germany||
+|Jordan |Anonymous |    -|Designer|                   |Australia||
+|Jason  |Xecute    |    -|-|Team Lead & Finance Officer|||
+|Satish |Mavericminer|  -|-|-||
+|Brent  |FranklinsAce|  -|-|-||
+|Jeff Lee|         |    -|Engineer|IT & Infrastructure|||
+|Marc   |ExploShot |    -|-|Developer & Mobile Lead    |Germany||
+|Lee    |Spek Oregonian|-|-|Speaker||
+|Michael|ghost1x   |    -|-|Designer                   |Germany||
+|Dennis |axecrypt  |    -|-|Exchange Manager           |Germany||
 
 ### External Contributors
-|Name |Contribution Details|
+|Name|Contribution Details|
 |:-----------|:--------|
 |Spectr|Please check pull requests of qwertycoin / qwertycoin-gui / qwertycoin-zero repositories on github.|
 |Blockinator|Please check wiki section of qwertycoin repository.|
@@ -432,4 +427,3 @@ ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQ
 #### Thanks
 
 Cryptonote Developers, Bytecoin Developers, Monero Developers, Karbo Developers, Qwertycoin Community
-
