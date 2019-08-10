@@ -108,6 +108,7 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 ![qwertycoin-figure4](https://cdn.qwertycoin.org/images/other/whitepaper/figure4.png "Figure 4. Block Reward Reduction per Date")
 
 **History of Mining Algorithm Changes**
+
 |-|Block Height|From|To|Supporting Mining Equipment and Service|
 |:---|----|----|----|----|
 |Initial   |     0|Cryptonight|-                |CPU, GPU, FGPA, ASIC, Nicehash|
@@ -143,6 +144,7 @@ The appropriate timing for this transition is to be decided by the community mem
 ![qwertycoin-figure7](https://cdn.qwertycoin.org/images/other/whitepaper/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
 
 [Table 1. Transition Timing Proposal from EPoW to EPoSe]
+
 |Transition Timing Table|Proposal #7|Proposal #8|Proposal #9|Proposal #10|Proposal #11|Proposal #12|
 |:----|----:|----:|----:|----:|----:|----:|
 |QWC Block Height:|200,000|250,000|300,000|350,000|400,000|450,000|
@@ -155,7 +157,9 @@ The appropriate timing for this transition is to be decided by the community mem
 |GPU Mining Profitability*:|QWC > 0.00002 USD|QWC > 0.00003 USD|QWC > 0.00004 USD|QWC > 0.00005 USD|QWC > 0.00006 USD|QWC > 0.00008 USD|
 |CPU Mining / Node Profitability**:|QWC > 0.000004 USD|QWC > 0.000006 USD|QWC > 0.000008 USD|QWC >0.000010 USD|QWC > 0.000012 USD|QWC > 0.000016 USD|
 |Expected Date of Height:|2018.11.3|2019.1.2|2019.3.22|2019.5.31|2019.8.8|2019.10.17
+
 [Table 2. Transition Timing Proposal from EPoW to EPoSe]
+
 |Transition Timing Table|Proposal #7|Proposal #8|Proposal #9|Proposal #10|Proposal #11|Proposal #12|
 |:----|----:|----:|----:|----:|----:|----:|
 |QWC Block Height:|500,000|700,000|900,000|1,000,000|1,500,000|2,000,000|
@@ -171,6 +175,7 @@ The appropriate timing for this transition is to be decided by the community mem
 *The assumption for GPU mining profitability is calculated based on AMD GPU with Cryptonight hash rate of 1,000.
 **The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000.
 ***Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship.
+
 ## How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe – QWC Original)
 Again, the word egalitarian stands for providing equal rights and equal opportunities. It is free to run a QWC masternode since node reward program does not offer a staking option for providing a node. In order for nodes to receive rewards, a node must be configured and used as a remote daemon in wallet software. Based on the number of transactions processed in remote daemon connections, Maximum 10 QWC is rewarded per transaction. [June 29th, 2018]
 **QWC nodes perform following tasks in the network.**
@@ -201,6 +206,7 @@ There will be several conformance and performance criteria evaluation for nodes 
 6.	EPoSe algorithm functions just like mining but provides infinite rewards throughout the lifetime of QWC blockchain without causing any inflation.
 
 [Table 1. Transaction Fee & EPoSe Rewards Estimation]
+
 |Median|Max Blk.Size|Tx per block|Daily Tx Throughput|Transaction Fee|Multiplier|Transaction Fee (Approx.) per Blk.|Blk. per Day|Ex. Tx Rewards Available for Uptime Nodes|
 |---:|---:|---:|---:|---:|---:|---:|---:|---:
 |<= 5 kb|1 mb|200 Tx|144,000 Tx|20 QWC/kb|1.0 X|20,000 QWC|720|14,400,000 QWC + Mining Block Rewards|
