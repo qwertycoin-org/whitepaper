@@ -91,44 +91,52 @@ QWC team operates under the unanimous consensus of transparent management for al
 ![qwertycoin-figure1](https://cdn.qwertycoin.org/images/other/whitepaper/figure1.png "Figure 1. Total QWC in Circulation per Bloch Height")
  
 [Figure 2. Total QWC in Circulation per Date]
- 
-How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant)                                                                
+![qwertycoin-figure2](https://cdn.qwertycoin.org/images/other/whitepaper/figure2.png "Figure 2. Total QWC in Circulation per Date")
+## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant)
 The word egalitarian stands for providing equal rights and equal opportunities. QWC network is an open source and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
 Cryptonote Technology V2.0 has a built-in block reward system called emission rate. It is a shape of log function and, because of its original design, QWC block rewards will reduce by each block found and eventually reach a point called ‘tail emission’. 
 QWC has an emission factor of 19. Please refer to below graphs to see how block rewards are reduced over time.
-[Figure 3. Block Reward Reduction per Block Height]
- 
-[Figure 4. Block Reward Reduction per Date]
- 
-History of Mining Algorithm Changes
-	Block Height	From	To	Supporting Mining Equipment and Service
-Initial	0	Cryptonight	-	CPU, GPU, FGPA, ASIC, Nicehash
-1st Change	115,250	Cryptonight	Cryptonight- Heavy	CPU, GPU / The rest are penalized.
-2nd Change	250,720	Cryptonight Heavy	Cryptonight	CPU, GPU, FGPA, ASIC, Nicehash
-3rd Change	T.B.D.	T.B.D.	T.B.D.	T.B.D.
 
-Qwertycoin core team is committed to reflect the decisions of the community regarding major changes in the future through community voting system.
+[Figure 3. Block Reward Reduction per Block Height]
+![qwertycoin-figure3](https://cdn.qwertycoin.org/images/other/whitepaper/figure3.png "Figure 3. Block Reward Reduction per Block Height")
+[Figure 4. Block Reward Reduction per Date]
+![qwertycoin-figure4](https://cdn.qwertycoin.org/images/other/whitepaper/figure4.png "Figure 4. Block Reward Reduction per Date")
+**History of Mining Algorithm Changes**
+| |Block Height |From |To |Supporting Mining Equipment and Service|
+|:--- |----|----|----|----|
+|Initial |0 |Cryptonight |- |CPU, GPU, FGPA, ASIC, Nicehash
+|1st Change |115,250 |Cryptonight |Cryptonight- Heavy |CPU, GPU / The rest are penalized.|
+|2nd Change |250,720 |Cryptonight Heavy |Cryptonight |CPU, GPU, FGPA, ASIC, Nicehash|
+|3rd Change |T.B.D. |T.B.D. |T.B.D. |T.B.D.|
+
+***Qwertycoin core team is committed to reflect the decisions of the community regarding major changes in the future through community voting system.***
+
 Please go to our explorer page (https://explorer.qwertycoin.org/#pools) and select a pool to mine from. Each pool provides information and a guide to setup for mining. Users can also mine with CPU using a built-in mining feature in QWC Desktop Wallet Software.
 Make sure to create a wallet address before you start mining QWC. You can download QWC user manual for the assistance.
-Transition from EPoW to EPoSe in QWC Network                                                                            
+
+## Transition from EPoW to EPoSe in QWC Network
+
 As with any other blockchain technologies, QWC block height will increase over time, which also results in the blockchain data file growing continuously in a linear trend. With block time of 120 seconds and 1 MB block size, QWC blockchain size can increase close to 4 TB at 99.95% QWC circulation rate. Even after considering the storage capacity of consumer PC market is currently averaged at 500GB, the size of full blockchain data can be a problem for new users of QWC blockchain.
+
 Eventually, the users of desktop wallet software are expected to connect their wallet software through remote nodes to reduce the percentage of their local hardware resource usage, while having an option to download the complete QWC blockchain data and sync in their local computers.
 
-QWC team also realizes that
+**QWC team also realizes that**
 1. block rewards against energy consumption for EPoW mining process will become inefficient for the network and harmful to our environment in the later stage of QWC blockchain.
 2. mobile wallet application will require remote nodes (without downloading blockchain file) for transactions.
 Therefore, it is inevitable that QWC blockchain algorithm has to shift from individual miners(EPoW) to competent node operators(EPoSe) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
 
 [Figure 5. Blockchain Size per Block Height]
- 
+![qwertycoin-figure5](https://cdn.qwertycoin.org/images/other/whitepaper/figure5.png "Figure 5. Blockchain Size per Block Height")
+
 [Figure 6. Blockchain Size per Date]
- 
+![qwertycoin-figure6](https://cdn.qwertycoin.org/images/other/whitepaper/figure6.png "Figure 6. Blockchain Size per Date")
 One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe [Masteronde] algorithm does not allow more profits by providing a high hash rate.
 The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in Table 1 for our members to make informed decisions.
-[Figure 7. Block Reward Reduction up to Block Height 2,000,000]
- 
-[Table 1. Transition Timing Proposal from EPoW to EPoSe]
 
+[Figure 7. Block Reward Reduction up to Block Height 2,000,000]
+![qwertycoin-figure7](https://cdn.qwertycoin.org/images/other/whitepaper/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
+
+[Table 1. Transition Timing Proposal from EPoW to EPoSe]
 |Transition Timing Table |Proposal #7 |Proposal #8 |Proposal #9 |Proposal #10 |Proposal #11 |Proposal #12 |
 |:---- |----: |----: |----: |----: |----: |----: |
 |QWC Block Height: |200,000 |250,000 |300,000 |350,000 |400,000 |450,000|
