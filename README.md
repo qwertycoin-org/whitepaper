@@ -45,13 +45,8 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 5. [How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe - QWC Original)](#howtogetcoinsmasternode)
 6. [Blockchain Development Roadmap](#blockchainroadmap)
 7. [Exchange Listing and Pricing Strategies](#exchangelisting)
--- [Listed Exchanges](#listedexchanges)
--- [Next Target Exchanges]](#nexttargetexchanges)
 8. [Future Directions for the Team](#futureroadmap)
 9. [Credits](#credits)
--- [Core Team](#credits-coreteam)
--- [External Contributors ](#credits-external)
-
 
 ## Introduction <a name="introduction"></a>
 Qwertycoin (Ticker: QWC) is a real community cryptocurrency, a decentralized digital asset, like Bitcoin. It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new algorithm concept exclusive to QWC.
@@ -244,7 +239,7 @@ The core team wants to review the entire codebase of CryptoNote V2.0 forked from
 - Multi-language support for all GUI, web and mobile wallets
 - DB implementation pending
 - Multi-signature (smart contract) feature pending
-- 
+
 2. **Stage 2:** Currency Application Development (2020 – By the end of 2021)
 -- EPoSe Implementation – Addition of PoS, turning QWC for both PoW and PoS
 -- Consensus Update
