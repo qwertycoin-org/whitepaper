@@ -110,7 +110,7 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 
 **History of Mining Algorithm Changes**
 
-|-|Block Height|From|To|Supporting Mining Equipment and Service|
+||Block Height|From|To|Supporting Mining Equipment and Service|
 |:---|----|----|----|----|
 |Initial   |     0|Cryptonight|-                |CPU, GPU, FGPA, ASIC, Nicehash|
 |1st Change|115,250|Cryptonight|Cryptonight- Heavy|CPU, GPU / The rest are penalized.|
@@ -157,7 +157,7 @@ The appropriate timing for this transition is to be decided by the community mem
 |Expected Daily Return of 1K Hash Rate:|86,400 QWC|62,784 QWC|47,640 QWC|37,110 QWC|29,520 QWC|23,840 QWC|
 |GPU Mining Profitability*:|QWC > 0.00002 USD|QWC > 0.00003 USD|QWC > 0.00004 USD|QWC > 0.00005 USD|QWC > 0.00006 USD|QWC > 0.00008 USD|
 |CPU Mining / Node Profitability**:|QWC > 0.000004 USD|QWC > 0.000006 USD|QWC > 0.000008 USD|QWC >0.000010 USD|QWC > 0.000012 USD|QWC > 0.000016 USD|
-|Expected Date of Height:|2018.11.3|2019.1.2|2019.3.22|2019.5.31|2019.8.8|2019.10.17
+|Expected Date of Height:|2018.11.3|2019.1.2|2019.3.22|2019.5.31|2019.8.8|2019.10.17|
 
 [Table 2. Transition Timing Proposal from EPoW to EPoSe]
 
@@ -165,14 +165,15 @@ The appropriate timing for this transition is to be decided by the community mem
 |:----|----:|----:|----:|----:|----:|----:|
 |QWC Block Height:|500,000|700,000|900,000|1,000,000|1,500,000|2,000,000|
 |Single Block Reward:|135,000 QWC|92,500 QWC|63,200 QWC|52,000 QWC|20,000 QWC|7,750 QWC|
-|24 Hour Block Reward:|97,200,000 QWC|66,600,000 QWC|45,504,000 QWC|37,440,000 QWC|14,400,000 QWC|5,580,000 QWC
-|Expected Number of Mobil Users:|500 Users|700 Users|900 Users|1,000 Users|1,500 Users|2,000 Users
+|24 Hour Block Reward:|97,200,000 QWC|66,600,000 QWC|45,504,000 QWC|37,440,000 QWC|14,400,000 QWC|5,580,000 QWC|
+|Expected Number of Mobil Users:|500 Users|700 Users|900 Users|1,000 Users|1,500 Users|2,000 Users|
 |Expected Storage Capacity:|500 GB|700 GB|900 GB|1.0 TB|1.5 TB|2.0 TB|
 |Expected Net Hash Rate:|5.0 MH|7.0 MH|9.0 MH|10.0 MH|15.0 MH|20.0 MH|
-|Expected Daily Return of 1K Hash Rate:|19,440 QWC|9,514 QWC|5,056 QWC|3,774 QWC|960 QWC|279 QWC
-|GPU Mining Profitability*:|QWC > 0.0001 USD|QWC > 0.0002 USD|QWC > 0.0004 USD|QWC > 0.0006 USD|QWC > 0.0022 USD|QWC > 0.008 USD
+|Expected Daily Return of 1K Hash Rate:|19,440 QWC|9,514 QWC|5,056 QWC|3,774 QWC|960 QWC|279 QWC|
+|GPU Mining Profitability*:|QWC > 0.0001 USD|QWC > 0.0002 USD|QWC > 0.0004 USD|QWC > 0.0006 USD|QWC > 0.0022 USD|QWC > 0.008 USD|
 |CPU Mining / Node Profitability**:|QWC > 0.000025 USD|QWC > 0.00004 USD|QWC > 0.00008 USD|QWC > 0.00012 USD|QWC > 0.0004 USD|QWC > 0.0016 USD|
-|Expected Date of Height:|2019.12.25|2020.9.28|2021.7.3|2021.11.18|2023.10.14|2025.9.7
+|Expected Date of Height:|2019.12.25|2020.9.28|2021.7.3|2021.11.18|2023.10.14|2025.9.7|
+
 *The assumption for GPU mining profitability is calculated based on AMD GPU with Cryptonight hash rate of 1,000.
 **The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000.
 ***Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship.
@@ -388,9 +389,9 @@ This section provides information about QWC Core Team members and contributors. 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
 |Alex   |nnian     |    -|Engineer|Lead Developer      |Germany|Founder|
-|Jeka   |         |    -|Engineer|macOS Lead         |Germany||
-|Pascal |         |    -|Engineer|IT Lead            |Germany||
-|Jordan |Anonymous |    -|Designer|                   |Australia||
+|Jeka   |-|    -|Engineer|macOS Lead         |Germany||
+|Pascal |-|    -|Engineer|IT Lead            |Germany||
+|Jordan |Anonymous |    -|Designer|Designer|Australia||
 |Jason  |Xecute    |    -|-|Team Lead & Finance Officer|||
 |Satish |Mavericminer|  -|-|-||
 |Brent  |FranklinsAce|  -|-|-||
