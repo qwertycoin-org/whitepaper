@@ -2,12 +2,8 @@
 
 **Qwertycoin is a decentralized peer-to-peer protocol for safe payments worldwide.**
 
-### Whitepaper
-
 You can download the newest version of our whitepaper here:
 (https://github.com/qwertycoin-org/whitepaper/blob/master/whitepaper.pdf)
-
-
 
 # Qwertycoin White Paper
 _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms._
@@ -25,10 +21,13 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 * Transparent Operations and Management – All accounts run by community funds can be monitored using tracking keys.
 
 ## TECHNICAL SPECIFICATIONS
-* Total Number of Coins: 184.47 Billion
-* Current Target Block Time: 120 seconds -> 20 seconds
-* Time for Transaction Hashes: Instant (<4 seconds)
-* Core Design: CryptoNote V2.0 – Forked from Bytecoin, Monero + Karbowanek + Digitalnote and Qwertycoin V1.0
+|Fact|Spec|
+|:---- | ----------:|
+|Total Number of Coins: |184.47 Billion|
+|Current Target Block Time: |120 seconds -> 20 seconds|
+|Time for Transaction Hashes: |Instant (<4 seconds)|
+|Core Design: |CryptoNote V2.0|
+|Forked from: |Bytecoin, Monero + Karbowanek + Digitalnote and Qwertycoin V1.0|
 
 ## ULTIMATE PROJECT GOALS
 * Development of User-Friendly Wallet Software for Desktop/Mobile Computers, Web and Mobile Phones
@@ -52,29 +51,36 @@ _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use
 ## Introduction
 Qwertycoin (Ticker: QWC) is a real community cryptocurrency, a decentralized digital asset, like Bitcoin. It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new algorithm concept exclusive to QWC.
 Qwertycoin transactions are untraceable, unlinkable and your privacy is protected. Mathematics secures the QWC network and empowers individuals to control their own finance and information.
+
 ### Official Links:
-Github Source Code: https://github.com/qwertycoin-org
-Bitcoin Talk Thread: https://bitcointalk.org/index.php?topic=2881418.0
-Desktop Wallet & Daemon Download for Windows, Linux and MacOS: https://qwertycoin.org/wallet/#downloads
-Web Wallet: https://myqwertycoin.com
-Mobile Wallet for iOS and Android: Please visit iOS App Store and Google Play Store
-Official pool: https://pool.qwertycoin.org
-3rd Party Pools: https://explorer.qwertycoin.org/#pools
-Master Node Daemon Download: https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.
-Master Node Map: https://nodes.qwertycoin.org
-Voting Platform: https://voting.qwertycoin.org
-Light Theme Logo: https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png
+|Link |Source|
+|:---- | ----------:|
+|Github Source Code: |https://github.com/qwertycoin-org|
+|Bitcoin Talk Thread: |https://bitcointalk.org/index.php?topic=2881418.0|
+|Desktop Wallet & Daemon Download for Windows, Linux and MacOS: |https://qwertycoin.org/wallet/#downloads
+|Web Wallet: |https://myqwertycoin.com|
+|Mobile Wallet for iOS and Android: |Please visit iOS App Store and Google Play Store|
+|Official pool: |https://pool.qwertycoin.org
+|3rd Party Pools: |https://explorer.qwertycoin.org/#pools
+Master Node Daemon Download: |https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
+|Master Node Map: |https://nodes.qwertycoin.org|
+|Voting Platform: |https://voting.qwertycoin.org|
+|Light Theme Logo: |https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png|
 
 ### Community Links:
-Telegram: https://t.me/qwertycoin
-Facebook: https://www.facebook.com/Qwertycoin-422694361519282/
-Discord: https://discord.gg/U5amwCs
-Twitter: https://twitter.com/Qwertycoin_QWC
-Reddit: https://www.reddit.com/r/QWERTYCOIN/
+|Link |Source|
+|:---- | ----------:|
+|Telegram: |https://t.me/qwertycoin|
+|Facebook: |https://www.facebook.com/Qwertycoin-422694361519282/|
+|Discord: |https://discord.gg/U5amwCs|
+|Twitter: |https://twitter.com/Qwertycoin_QWC|
+|Reddit: |https://www.reddit.com/r/QWERTYCOIN/|
 
-Support & Contact Information:
-Telegram: https://t.me/qwc_support
-Email: support@qwertycoin.org
+### Support |& Contact Information
+|Link |Source|
+|:---- | ----------:|
+|Telegram: |https://t.me/qwc_support|
+|Email: |support@qwertycoin.org|
 
 ## Vision
 
@@ -102,7 +108,7 @@ QWC has an emission factor of 19. Please refer to below graphs to see how block 
 [Figure 4. Block Reward Reduction per Date]
 ![qwertycoin-figure4](https://cdn.qwertycoin.org/images/other/whitepaper/figure4.png "Figure 4. Block Reward Reduction per Date")
 **History of Mining Algorithm Changes**
-| |Block Height |From |To |Supporting Mining Equipment and Service|
+| -|Block Height |From |To |Supporting Mining Equipment and Service|
 |:--- |----|----|----|----|
 |Initial |0 |Cryptonight |- |CPU, GPU, FGPA, ASIC, Nicehash
 |1st Change |115,250 |Cryptonight |Cryptonight- Heavy |CPU, GPU / The rest are penalized.|
@@ -426,3 +432,4 @@ ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQ
 #### Thanks
 
 Cryptonote Developers, Bytecoin Developers, Monero Developers, Karbo Developers, Qwertycoin Community
+
