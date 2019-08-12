@@ -146,7 +146,7 @@ The appropriate timing for this transition is to be decided by the community mem
 
 [Table 1. Transition Timing Proposal from EPoW to EPoSe]
 
-|Transition Timing Table|Proposal #7|Proposal #8|Proposal #9|Proposal #10|Proposal #11|Proposal #12|
+|Transition Timing Table|Proposal #1|Proposal #2|Proposal #3|Proposal #4|Proposal #5|Proposal #6|
 |:----|----:|----:|----:|----:|----:|----:|
 |QWC Block Height:|200,000|250,000|300,000|350,000|400,000|450,000|
 |Single Block Reward:|240,000 QWC|218,000 QWC|198,500 QWC|180,400 QWC|164,000 QWC|149,000 QWC|
@@ -174,9 +174,9 @@ The appropriate timing for this transition is to be decided by the community mem
 |CPU Mining / Node Profitability**:|QWC > 0.000025 USD|QWC > 0.00004 USD|QWC > 0.00008 USD|QWC > 0.00012 USD|QWC > 0.0004 USD|QWC > 0.0016 USD|
 |Expected Date of Height:|2019.12.25|2020.9.28|2021.7.3|2021.11.18|2023.10.14|2025.9.7|
 
-*The assumption for GPU mining profitability is calculated based on AMD GPU with Cryptonight hash rate of 1,000.
-**The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000.
-***Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship.
+The assumption for GPU mining profitability is calculated based on AMD GPU with Cryptonight hash rate of 1,000. *
+The assumption for the CPU mining / node profitability is calculated based on AMD CPU with Cryptonight hash rate of 1,000. **
+Mining profitability can be changed depending on net hash rate and both variables have a inversely proportional relationship. ***
 
 ## How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe – QWC Original) <a name="howtogetcoinsmasternode"></a>
 Again, the word egalitarian stands for providing equal rights and equal opportunities. It is free to run a QWC masternode since node reward program does not offer a staking option for providing a node. In order for nodes to receive rewards, a node must be configured and used as a remote daemon in wallet software. Based on the number of transactions processed in remote daemon connections, Maximum 10 QWC is rewarded per transaction. [June 29th, 2018]
@@ -228,7 +228,7 @@ There will be several conformance and performance criteria evaluation for nodes 
 - Web Wallet / Mobile Wallet Development and Optimization
 - Commerce Plug-In Integration Development
 
-The core team wants to review the entire codebase of CryptoNote V2.0 forked from previous blockchains and acquire better understandings of the codes while making improvements & adjustments during this period. This is the ground work required to start Stage 2 of development.
+⋅⋅⋅The core team wants to review the entire codebase of CryptoNote V2.0 forked from previous blockchains and acquire better understandings of the codes while making improvements & adjustments during this period. This is the ground work required to start Stage 2 of development.
 
 - Known bugs for Qwertycoin software and Cryptonote codebase are being patched and fixed.
 - Travis CI and Appveyor CI checks added.
