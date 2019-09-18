@@ -422,8 +422,8 @@ Please contribute to our cause and goals with your knowledge and service and we 
 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
-|Satish |Mavericminer|  -|-|-||
-|Brent  |FranklinsAce|  -|-|-||
+|Satish |Mavericminer|  -|-|USA||
+|Brent  |FranklinsAce|  -|-|Canada||
 
 ## Donate
 
