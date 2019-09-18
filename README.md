@@ -293,13 +293,14 @@ From past experience and failure to select proper exchanges for trading, the lis
 ### Next Target Exchanges <a name="nexttargetexchanges"></a>
 
 1. STEX – To be funded by QWC Community [LTC]
-Closed Exchanges
-2. Octaex/China
-3. Crepcoin/Unknown
-4. Altex/Unknown
 
 Due to excessive listing price of major exchanges, community donations are required to help raise the fund for listing QWC on following exchanges.
 - Binance, HitBTC, Bittrex, Poloniex and other exchanges will be possible candidates or our own exchange.
+
+### Closed Exchanges <a name="nexttargetexchanges"></a>
+1. Octaex/China
+2. Crepcoin/Unknown
+3. Altex/Unknown
 
 **A brief explanation regarding initial listing price:**
 Qwertycoin team firmly believes in the free market theory. That is why the initial listing price was at 0.01 satoshi. Our community strongly insisted on 1 satoshi listing during the poll and debate during the first exchange listing. 
