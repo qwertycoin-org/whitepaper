@@ -448,4 +448,4 @@ ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQ
 
 #### Thanks
 
-Cryptonote Developers, Bytecoin Developers, Monero Developers, Karbo Developers, Qwertycoin Community
+Cryptonote Developers, Bytecoin Developers, Monero Developers, Karbo Developers, Masari Developers, Turtlecoin Developers and Qwertycoin Community
