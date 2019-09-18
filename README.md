@@ -403,9 +403,7 @@ This section provides information about QWC Core Team members and contributors. 
 |Pascal |-|    -|Engineer|IT Lead            |Germany||
 |Jordan |Anonymous |    -|Designer|Designer|Australia||
 |Jason  |Xecute    |    -|-|Team Lead & Finance Officer|||
-|Satish |Mavericminer|  -|-|-||
-|Brent  |FranklinsAce|  -|-|-||
-|Jeff Lee|         |    -|Engineer|IT & Infrastructure|||
+|Jeff Lee|         |    -|Engineer|CEO & IT Infrastructure|||
 |Marc   |ExploShot |    -|-|Developer & Mobile Lead    |Germany||
 |Lee    |Spek Oregonian|-|-|Speaker||
 |Michael|ghost1x   |    -|-|Designer                   |Germany||
@@ -419,6 +417,12 @@ This section provides information about QWC Core Team members and contributors. 
 |Biz|Please check on github.|
 
 Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service.
+
+### Previous Contributor <a name="credits-coreteam"></a>
+
+|Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
+|Satish |Mavericminer|  -|-|-||
+|Brent  |FranklinsAce|  -|-|-||
 
 ## Donate
 
