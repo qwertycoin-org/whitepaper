@@ -399,13 +399,13 @@ This section provides information about QWC Core Team members and contributors. 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
 |Alex   |nnian     |    -|Engineer|Lead Developer      |Germany|Founder|
-|Jeka   |-|    -|Engineer|macOS Lead         |Germany||
-|Pascal |-|    -|Engineer|IT Lead            |Germany||
-|Jordan |Anonymous |    -|Designer|Designer|Australia||
+|Jeka   |-|    -|Engineer|macOS Lead                   |Germany||
+|Pascal |-|    -|Engineer|IT Lead                      |Germany||
+|Jordan |Anonymous |    -|Designer|Designer            |Australia||
 |Jason  |Xecute    |    -|-|Team Lead & Finance Officer|||
 |Jeff Lee|         |    -|Engineer|CEO & IT Infrastructure|||
 |Marc   |ExploShot |    -|-|Developer & Mobile Lead    |Germany||
-|Lee    |Spek Oregonian|-|-|Speaker||
+|Lee    |Spek Oregonian|-|-|Speaker                    |USA||
 |Michael|ghost1x   |    -|-|Designer                   |Germany||
 |Dennis |axecrypt  |    -|-|Exchange Manager           |Germany||
 
