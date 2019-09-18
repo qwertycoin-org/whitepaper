@@ -394,7 +394,7 @@ QWC team (a centralized authority that consists of a group of people who volunte
 # Credits <a name="credits"></a>
 This section provides information about QWC Core Team members and contributors. This section is to be revised periodically and previous core team members and significant contributors shall remain as well.
 
-### Core Team <a name="credits-coreteam"></a>
+### Active Core Team Members <a name="credits-coreteam"></a>
 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
@@ -422,8 +422,8 @@ Please contribute to our cause and goals with your knowledge and service and we 
 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
 |:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
-|Satish |Mavericminer|  -|-|USA||
-|Brent  |FranklinsAce|  -|-|Canada||
+|Satish |Mavericminer|  -|-|Community Manager|USA||
+|Brent  |FranklinsAce|  -|-|Community Manager|Canada||
 
 ## Donate
 
