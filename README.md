@@ -283,10 +283,12 @@ From past experience and failure to select proper exchanges for trading, the lis
 3.	Fedlio/Singapore or Seychelles – Funded by QWC Team [ETH / BCHABC / DASH] – **Warning for withdrawal issues!**
 4.	Bisq/Decentralized – Promoted by QWC Team [BTC] – Requires Activation Cost.
 5.	Bituan/China – Promoted by QWC Chinese Community [USDT]
-6.	Citex/Korea – Promoted by QWC Chinese Community [BTC / ETH]
+6.	Citex/Korea – Promoted by QWC Chinese Community [BTC / ETH / USDT]
 7.	QBTC/China – Promoted by QWC Chinese Community [CNYT]
 8.	Tyche/Unknown – Promoted by QWC Team [ETH / USDT / DOGE / TEX]
 9.	Altilly/HK – Funded by QWC Team [BTC / ETH / DOGE / XQR]
+10. BKEX/China – Promoted by QWC Chinese Community [BTC / USDT]
+11. GJ/China – Promoted by QWC Chinese Community [USDT]
 
 ***QWC community members should be aware that the listing contract can be nullified if there is not enough trading volume.***
 
@@ -356,13 +358,14 @@ Seller(Lender)/Buyer(Loaner) -> Qwerty Wallet -> C2C Exchange based on Best Mark
 4. The QWC coins funded by Seller(Lender - Reserve Requirement System and/or QWC Billionaire Club) on exchange platform will initiate C2C exchange from the market and send the exchanged coin to Buyer(Loaner)’s designated address excluding a service fee form exchanged coin unit. (% of total transaction)
 5. Exchange status will be confirmed in QWC wallet software.
 
-**Pro:**
+**Pros:**
 1. Personal identity is masked through this system.
 2. Buyers can receive the best market deal by taking the lowest sell order rate from Multi-Exchange API (CEX / DEX) at their fingertips.
 3. Lenders can receive the best market deal by making the highest buy order rate from Multi-Exchange API (CEX / DEX) at their fingertips + service fees.
 4. By normalizing sell price in the market, buy price is also normalized and stabilized. This will be the main difference from other cryptocurrencies in terms of trading ecosystem.
 
-**Con:** Investor holds risks against the overall stability of the QWC blockchain.
+**Cons:** 
+1. Investors hold risks against the overall stability of the QWC blockchain.
 
 *C2F / F2C Transaction (Coin to Fiat / Fiat to Coin Exchange)*
 
