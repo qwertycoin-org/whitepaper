@@ -306,7 +306,7 @@ Due to excessive listing price of major exchanges, community donations are requi
 
 **A brief explanation regarding initial listing price:**
 Qwertycoin team firmly believes in the free market theory. That is why the initial listing price was at 0.01 satoshi. Our community strongly insisted on 1 satoshi listing during the poll and debate during the first exchange listing. 
-After listing, all other coins with similar structure had to join the initial pricing strategy of QWC because they realized 1 satoshi for 184.47 billion coins with a high emission rate is just not realistic without any form or premine or ICO/IEO.
+After listing, all other coins with similar structure had to follow our initial pricing strategy because they realized 1 satoshi for 184.47 billion coins with a high emission rate is just not realistic without any form or premine or ICO/IEO.
 
 ## Future Directions for the Team and the Community Members <a name="futureroadmap"></a>
 A. Multi Language Support (Wallet Software and Web)
