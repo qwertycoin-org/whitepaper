@@ -418,9 +418,10 @@ This section provides information about QWC Core Team members and contributors. 
 
 Please contribute to our cause and goals with your knowledge and service and we will gladly list your credit on this page. Everyone can participate in QWC and be a part of building a blockchain service.
 
-### Previous Contributor <a name="credits-coreteam"></a>
+### Previous Contributors <a name="credits-coreteam"></a>
 
 |Name |Nick|Full/Part Time|Background|Role in QWC Team|Home|Misc.|
+|:-|:-|:-----------------:|-------:|--------------------:|-----:|:-----|
 |Satish |Mavericminer|  -|-|-||
 |Brent  |FranklinsAce|  -|-|-||
 
