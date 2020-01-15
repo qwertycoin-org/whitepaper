@@ -8,7 +8,7 @@ You can download the newest version of our whitepaper here:
 # Qwertycoin White Paper
 _QWERTYCOIN [Ticker: QWC] is a digital crypto-currency designed for everyday use. It supports simple CPU/GPU mining and masternode operations, Desktop / Mobile / Web wallets are provided for user’s accessibility to QWERTYCOIN across multiple platforms._
 
-![qwertycoin-info](https://cdn.qwertycoin.org/images/other/btt/en/top.png "Qwertycoin Overview")
+![qwertycoin-info](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/top.png "Qwertycoin Overview")
 
 ## FEATURES
 * Anonymous, Unlinkable and Untraceable Transactions - Based on CryptoNote V2.0 Technology over a decentralized network.
