@@ -1,4 +1,4 @@
-![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-2.png)
+![image](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/qwc-github-2.png)
 
 **Qwertycoin is a decentralized peer-to-peer protocol for safe payments worldwide.**
 
@@ -65,7 +65,7 @@ Qwertycoin transactions are untraceable, unlinkable and your privacy is protecte
 |Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
 |Master Node Map:|https://nodes.qwertycoin.org|
 |Voting Platform:|https://voting.qwertycoin.org|
-|Light Theme Logo:|https://cdn.qwertycoin.org/images/other/qwclogo-512x512.png|
+|Light Theme Logo:|https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/qwclogo-512x512.png|
 
 ### Community Links:
 |Link|Source|
@@ -93,10 +93,10 @@ Everyone is free to join all QWC network and use its services at a low cost. How
 QWC team operates under the unanimous consensus of transparent management for all its members.
 
 [Figure 1. Total QWC in Circulation per Bloch Height]
-![qwertycoin-figure1](https://cdn.qwertycoin.org/images/other/whitepaper/figure1.png "Figure 1. Total QWC in Circulation per Bloch Height")
+![qwertycoin-figure1](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure1.png "Figure 1. Total QWC in Circulation per Bloch Height")
 
 [Figure 2. Total QWC in Circulation per Date]
-![qwertycoin-figure2](https://cdn.qwertycoin.org/images/other/whitepaper/figure2.png "Figure 2. Total QWC in Circulation per Date")
+![qwertycoin-figure2](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure2.png "Figure 2. Total QWC in Circulation per Date")
 
 ## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant) <a name="howtogetcoinsmining"></a>
 The word egalitarian stands for providing equal rights and equal opportunities. QWC network is an open source and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
@@ -104,9 +104,9 @@ Cryptonote Technology V2.0 has a built-in block reward system called emission ra
 QWC has an emission factor of 19. Please refer to below graphs to see how block rewards are reduced over time.
 
 [Figure 3. Block Reward Reduction per Block Height]
-![qwertycoin-figure3](https://cdn.qwertycoin.org/images/other/whitepaper/figure3.png "Figure 3. Block Reward Reduction per Block Height")
+![qwertycoin-figure3](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure3.png "Figure 3. Block Reward Reduction per Block Height")
 [Figure 4. Block Reward Reduction per Date]
-![qwertycoin-figure4](https://cdn.qwertycoin.org/images/other/whitepaper/figure4.png "Figure 4. Block Reward Reduction per Date")
+![qwertycoin-figure4](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure4.png "Figure 4. Block Reward Reduction per Date")
 
 **History of Mining Algorithm Changes**
 
@@ -134,15 +134,15 @@ Eventually, the users of desktop wallet software are expected to connect their w
 Therefore, it is inevitable that QWC blockchain algorithm has to shift from individual miners(EPoW) to competent node operators(EPoSe) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
 
 [Figure 5. Blockchain Size per Block Height]
-![qwertycoin-figure5](https://cdn.qwertycoin.org/images/other/whitepaper/figure5.png "Figure 5. Blockchain Size per Block Height")
+![qwertycoin-figure5](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure5.png "Figure 5. Blockchain Size per Block Height")
 
 [Figure 6. Blockchain Size per Date]
-![qwertycoin-figure6](https://cdn.qwertycoin.org/images/other/whitepaper/figure6.png "Figure 6. Blockchain Size per Date")
+![qwertycoin-figure6](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure6.png "Figure 6. Blockchain Size per Date")
 One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe [Masteronde] algorithm does not allow more profits by providing a high hash rate.
 The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in Table 1 for our members to make informed decisions.
 
 [Figure 7. Block Reward Reduction up to Block Height 2,000,000]
-![qwertycoin-figure7](https://cdn.qwertycoin.org/images/other/whitepaper/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
+![qwertycoin-figure7](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
 
 [Table 1. Transition Timing Proposal from EPoW to EPoSe]
 
