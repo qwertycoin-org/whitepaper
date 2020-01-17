@@ -12,13 +12,13 @@ _QWERTYCOIN [Ticker: QWC] ist eine digitale Kryptowährung für den täglichen G
 
 ## EIGENSCHAFTEN
 * Anonyme, nicht zuweisbare und nicht verfolgbare Transaktionen - Basierend auf der CryptoNote V2.0-Technologie über ein dezentrales eigenes Netzwerk.
-* Egalitarian Proof of Work (EPoW) – Through Cryptonight-base algorithm with LWMA difficulty algorithm.
-* Egalitarian Proof of Service (EPoSe) – Transaction fee distribution among master nodes based on Uptime as a measure of service.
-* Reserve Requirement System - Development fees and donations collected over time will be stored in QWERTYCOIN Foundation.
-* No Pre-mining - Community owned system and transparent developments and operations.
+* Egalitarian Proof of Work (EPoW) – Durch einen Cryptonight-basierten Algorithmus mit LWMA
+* Egalitarian Proof of Service (EPoSe) – Verteilung der Transaktionsgebühren auf die Master-Nodes basierend auf der Systemlaufzeit als Maß für den Service.
+* Reserve Requirement System - Im Laufe der Zeit gesammelte Fees und Spenden werden in der zu gründenden QWERTYCOIN Foundation verwaltet.
+* Kein Pre-Mining - Qwertrycoin steht für ein Open-Source-System mit transparenter Entwicklung und Strukturen.
 * Free Master Nodes - Keine notwendige Mindesteinzahlung für den Betrieb von Qwertycoin-Nodes.
 * Free Community Faucet – Free QWC every 24 hours from community donations.
-* Transparent Operations and Management – All accounts run by community funds can be monitored using tracking keys.
+* Transparente Abläufe und Verwaltung - Alle Konten, die Gemeinschaftsmittel enthalten werden, können mithilfe von "Tracking Keys" überprüft werden.
 
 ## TECHNISCHE SPEZIFIKATIONEN
 |Fakt|Spezifikation|
@@ -33,33 +33,32 @@ _QWERTYCOIN [Ticker: QWC] ist eine digitale Kryptowährung für den täglichen G
 * Entwicklung einer benutzerfreundlicheren Wallet-Software für Desktop-, Smartphones-, Web- und Tablets
 * Q-Life app with chat + wallet + crypto exchange + store locator
 * Robust Network (< 50 PPM Blockchain Split) with Blockchain/Network Monitoring Tool for all users
-* Network Explorer feature that allows monitoring of blockchain
+* Netzwerk Explorer zur Kontrolle und Einsichtnahme der Blockchain
 * Über 1 Million Nutzer
-* E-Commerce/Woo-Commerce Integration + Local Stores as Fiat Exchange
+* Integration von E-Commerce / Woo-Commerce + lokale Geschäfte als Echtgeld (FIAT) Exchange
 
 # Index
 1. [Einführung](#introduction)
 2. [Vision](#vision)
-3. [Wie man Münzen bekommt [Mining]: Egalitarian Proof of Work (EPoW - Cryptonight Based Variant)](#howtogetcoinsmining)
-4. [Transition from EPoW to EPoSe in QWC Network](#transition)
-5. [How to Get Coins [Masternode]: Egalitarian Proof of Service (EPoSe - QWC Original)](#howtogetcoinsmasternode)
-6. [Blockchain Development Roadmap](#blockchainroadmap)
-7. [Exchange Listing and Pricing Strategies](#exchangelisting)
-8. [Future Directions for the Team](#futureroadmap)
+3. [Wie man Münzen bekommt [Mining]: Egalitarian Proof of Work (EPoW - Cryptonight Basierte Variante)](#howtogetcoinsmining)
+4. [Übergang von EPoW zu EPoSe im QWC-Netzwerk](#transition)
+5. [Wie man Münzen bekommt [Masternode]: Egalitarian Proof of Service (EPoSe - QWC Original)](#howtogetcoinsmasternode)
+6. [Blockchain Entwicklung](#blockchainroadmap)
+7. [Exchange Listing und Pricing Strategien](#exchangelisting)
+8. [Zukünftige Ausrichtung](#futureroadmap)
 9. [Credits](#credits)
 
 ## Einführung <a name="introduction"></a>
-Qwertycoin (Ticker: QWC) is a real community cryptocurrency, a decentralized digital asset, like Bitcoin. It is based on CryptoNote Technology V2.0. Nobody owns or controls Qwertycoin. It allows anonymous and trustless peer to peer transactions through a fair PoW mining algorithm and will implement EPoSe, a new algorithm concept exclusive to QWC.
-Qwertycoin transactions are untraceable, unlinkable and your privacy is protected. Mathematics secures the QWC network and empowers individuals to control their own finance and information.
+Qwertycoin (Ticker: QWC) ist eine echte Community-Kryptowährung, ein dezentrales, digitale Blockchain Projekt mit Digitalen Münzen wie Bitcoin. Es basiert auf der CryptoNote-Technologie V2.0. Niemand besitzt oder kontrolliert Qwertycoin. Es ermöglicht anonymen und vertrauenswürdigen Teilnehmern der Blockchain, Transaktionen über einen PoW-Mining-Algorithmus zu validieren, und implementiert in der nahen Zukunft den eigenen EPoSe, ein neues Algorithmus Konzept, dass exklusiv von und für QWC entwickelt. Qwertycoin-Transaktionen sind nicht nachvollziehbar, nicht nachverfolgbar. Ihre Privatsphäre ist geschützt. Komplexe mathematische Verschlüsselungen sichern das QWC-Netzwerk und befähigt sowohl Einzelpersonen als auch Unternehmen, ihre eigenen Finanzen und Informationen zu kontrollieren.
 
 ### Offizielle Links:
 |Link|Source|
 |:----|----------:|
 |Github Source Code:|https://github.com/qwertycoin-org|
 |Bitcoin Talk Thread:|https://bitcointalk.org/index.php?topic=2881418.0|
-|Desktop Wallet & Daemon Download for Windows, Linux and MacOS:|https://qwertycoin.org/wallet/#downloads
+|Desktop Wallet & Daemon Download für Windows, Linux und MacOS:|https://qwertycoin.org/wallet/#downloads
 |Web Wallet:|https://myqwertycoin.com|
-|Mobile Wallet for iOS and Android:|Please visit iOS App Store and Google Play Store|
+|Mobile Wallet für iOS and Android:|Bitte besuche den iOS App Store oder Google Play Store|
 |Official pool:|https://pool.qwertycoin.org
 |3rd Party Pools:|https://explorer.qwertycoin.org/#pools
 |Master Node Daemon Download:|https://qwertycoin.org/wallet/#downloads / CLI versions of wallet software is Master Node software.|
@@ -80,44 +79,43 @@ Qwertycoin transactions are untraceable, unlinkable and your privacy is protecte
 |Link|Source|
 |:----|----------:|
 |Telegram:|https://t.me/qwc_support|
-|Email:|support@qwertycoin.org|
+|E-Mail:|support@qwertycoin.org|
 
 ## Vision <a name="vision"></a>
-* Reliable, fast and easy to use / user-friendly blockchain service
-* Decentralized development from crowd efforts and funding
-* Privacy protection for the members of its network
-* Abundant supply to allow a fair distribution among a large number of members
+* Zuverlässige, schnelle und benutzerfreundliche Blockchain
+* Dezentrale Entwicklung und Finanzierung innerhalb der Community
+* Privatsphähre für die Mitglieder und Teilnehmer des Qwertycoin Netzwerks
+* Großes Angebot an verfügbaren Coins, um eine gerechte Verteilung auf eine große Anzahl von Mitgliedern zu ermöglichen
 
-Qwertycoin (QWC) team envisions the future of finance relies on distributed ledger technology, the blockchain. Unlike traceable bitcoin, QWC developers applied Cryptonote Technology V2.0, which has been verified to provide anonymity of users from the earlier generations of cryptocurrencies. 
-Everyone is free to join all QWC network and use its services at a low cost. However, QWC requires a central authority for the development and the management of QWC network and blockchain. Community engagements and donations are necessary to keep the development moving forward.
-QWC team operates under the unanimous consensus of transparent management for all its members.
+Das Team hinter Qwertycoin (QWC) sieht die Zukunft des Finanzwesens in der verteilten Kassenbuchtechnologie (distributed ledger), der Blockchain. Im Gegensatz zum nachvollziehbaren Bitcoin verwendeten die QWC-Entwickler die Cryptonote-Technologie in der Version 2.0, welche nachweislich die Anonymität von Benutzern früherer Generationen von Kryptowährungen gewährleistet.
+Es steht jedem frei, sich dem Qwertycoin-Netzwerk anzuschließen und seine Dienste zu geringen Transaktionskosten zu verwenden. QWC benötigt eine zentrale Behörde für die Entwicklung und Verwaltung des QWC-Netzwerks und der Blockchain. Engagements und Spenden sind seitens der Gemeinschaft notwendig, um die Entwicklung voranzutreiben. Das QWC-Team arbeitet unter dem einhelligen Konsens eines transparenten Managements für alle seine Mitglieder.
 
-[Figure 1. Total QWC in Circulation per Bloch Height]
-![qwertycoin-figure1](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure1.png "Figure 1. Total QWC in Circulation per Bloch Height")
+[Abbildung 1. Gesamt-QWC im Umlauf bei Blockhöhe]
+![qwertycoin-figure1](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure1.png "Abbildung 1. Gesamt-QWC im Umlauf bei Blockhöhe")
 
-[Figure 2. Total QWC in Circulation per Date]
-![qwertycoin-figure2](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure2.png "Figure 2. Total QWC in Circulation per Date")
+[Abbildung 2. Gesamt-QWC im Umlauf nach Datum]
+![qwertycoin-figure2](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure2.png "Abbildung 2. Gesamt-QWC im Umlauf nach Datum")
 
-## How to Get Coins [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Based Variant) <a name="howtogetcoinsmining"></a>
-The word egalitarian stands for providing equal rights and equal opportunities. QWC network is an open source and is driven by community members. Anyone can join and support the network and get coins as compensation to their support through mining.
-Cryptonote Technology V2.0 has a built-in block reward system called emission rate. It is a shape of log function and, because of its original design, QWC block rewards will reduce by each block found and eventually reach a point called ‘tail emission’. 
-QWC has an emission factor of 19. Please refer to below graphs to see how block rewards are reduced over time.
+## Wie man Münzen bekommt [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Basierte Variante) <a name="howtogetcoinsmining"></a>
+Das Wort egalitär steht für Gleichberechtigung und Chancengleichheit. Das QWC-Netzwerk ist Open Source und wird von Community-Mitgliedern betrieben. Jeder Interessierte kann dem Netzwerk beitreten, es unterstützen und Coins als Entschädigung für die Unterstützung am Mining-Prozess erhalten.
+Die Cryptonote-Technologie V2.0 verfügt über ein integriertes Belohnungssysteme pro Block namens "Emissionsrate". Es handelt sich um eine Form der Protokollfunktion. Aufgrund des ursprünglichen Designs werden die Belohnungen für QWC-Blöcke nach jedem gefundenen Block verringert und erreichen schließlich einen Punkt, der als "tail emission" bezeichnet wird.
+QWC hat einen Emissionsfaktor von 19. Betrachten Sie die folgenden Grafiken, um zu sehen, wie sich die Blockbelohnungen im Laufe der Zeit verringern.
 
-[Figure 3. Block Reward Reduction per Block Height]
-![qwertycoin-figure3](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure3.png "Figure 3. Block Reward Reduction per Block Height")
-[Figure 4. Block Reward Reduction per Date]
-![qwertycoin-figure4](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure4.png "Figure 4. Block Reward Reduction per Date")
+[Abbildung 3. Reduzierung des Blockrewards pro Blockhöhe]
+![qwertycoin-figure3](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure3.png "Abbildung 3. Reduzierung des Blockrewards pro Blockhöhe")
+[Abbildung 4. Reduzierung des Blockrewards nach Datum]
+![qwertycoin-figure4](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure4.png "Abbildung 4. Reduzierung des Blockrewards nach Datum")
 
-**History of Mining Algorithm Changes**
+**Verlauf der Änderungen des Miningalgorithmus**
 
-||Block Height|From|To|Supporting Mining Equipment and Service|
+||Block Höhe|Von|Bis|Unterstützte Hardware und Services|
 |:---|----|----|----|----|
 |Initial   |     0|Cryptonight|-                |CPU, GPU, FGPA, ASIC, Nicehash|
-|1st Change|115,250|Cryptonight|Cryptonight- Heavy|CPU, GPU / The rest are penalized.|
-|2nd Change|250,720|Cryptonight Heavy|Cryptonight |CPU, GPU, FGPA, ASIC, Nicehash|
-|3rd Change|T.B.D.|    T.B.D.|T.B.D.            |T.B.D.|
+|1. Änderung|115,250|Cryptonight|Cryptonight- Heavy|CPU, GPU / The rest are penalized.|
+|2. Änderung|250,720|Cryptonight Heavy|Cryptonight |CPU, GPU, FGPA, ASIC, Nicehash|
+|3. Änderung|T.B.D.|    T.B.D.|T.B.D.            |T.B.D.|
 
-***Qwertycoin core team is committed to reflect the decisions of the community regarding major changes in the future through community voting system.***
+***Das Qwertycoin-Team ist bestrebt, die Entscheidungen der Community in Bezug auf wichtige, zukünftige Änderungen durch das Community-Abstimmungssystem zu berücksichtigen.***
 
 Please go to our explorer page (https://explorer.qwertycoin.org/#pools) and select a pool to mine from. Each pool provides information and a guide to setup for mining. Users can also mine with CPU using a built-in mining feature in QWC Desktop Wallet Software.
 Make sure to create a wallet address before you start mining QWC. You can download QWC user manual for the assistance.
@@ -133,16 +131,16 @@ Eventually, the users of desktop wallet software are expected to connect their w
 2. mobile wallet application will require remote nodes (without downloading blockchain file) for transactions.
 Therefore, it is inevitable that QWC blockchain algorithm has to shift from individual miners(EPoW) to competent node operators(EPoSe) as more coins are mined towards QWC’s maximum supply limit of 184.47 billion and the adaption rate of mobile wallet application increases over time.
 
-[Figure 5. Blockchain Size per Block Height]
-![qwertycoin-figure5](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure5.png "Figure 5. Blockchain Size per Block Height")
+[Abbildung 5. Blockchain Size per Block Height]
+![qwertycoin-figure5](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure5.png "Abbildung 5. Blockchain Size per Block Height")
 
-[Figure 6. Blockchain Size per Date]
-![qwertycoin-figure6](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure6.png "Figure 6. Blockchain Size per Date")
+[Abbildung 6. Blockchain Size per Date]
+![qwertycoin-figure6](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure6.png "Abbildung 6. Blockchain Size per Date")
 One of the major challenges QWC members needs to consider for this algorithm transition is a heavy market correction arising from excluding existing mining population from the network, because EPoSe [Masteronde] algorithm does not allow more profits by providing a high hash rate.
 The appropriate timing for this transition is to be decided by the community members. In this paper, proposed timings for this change are provided in Table 1 for our members to make informed decisions.
 
-[Figure 7. Block Reward Reduction up to Block Height 2,000,000]
-![qwertycoin-figure7](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure7.png "Figure 7. Block Reward Reduction up to Block Height 2,000,000")
+[Abbildung 7. Block Reward Reduction up to Block Height 2,000,000]
+![qwertycoin-figure7](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/figure7.png "Abbildung 7. Block Reward Reduction up to Block Height 2,000,000")
 
 [Table 1. Transition Timing Proposal from EPoW to EPoSe]
 
