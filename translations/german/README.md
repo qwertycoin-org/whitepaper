@@ -11,11 +11,11 @@ _QWERTYCOIN [Ticker: QWC] ist eine digitale Kryptowährung für den täglichen G
 ![qwertycoin-info](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/top.png "Qwertycoin Overview")
 
 ## EIGENSCHAFTEN
-* Anonyme, nicht zuweisbare und nicht verfolgbare Transaktionen - Basierend auf der CryptoNote V2.0-Technologie über ein dezentrales eigenes Netzwerk.
+* Anonyme, nicht zuordenbare und nicht verfolgbare Transaktionen - Basierend auf der CryptoNote V2.0-Technologie über ein dezentrales eigenes Netzwerk.
 * Egalitarian Proof of Work (EPoW) – Durch einen Cryptonight-basierten Algorithmus mit LWMA
 * Egalitarian Proof of Service (EPoSe) – Verteilung der Transaktionsgebühren auf die Master-Nodes basierend auf der Systemlaufzeit als Maß für den Service.
 * Reserve Requirement System - Im Laufe der Zeit gesammelte Fees und Spenden werden in der zu gründenden QWERTYCOIN Foundation verwaltet.
-* Kein Pre-Mining - Qwertrycoin steht für ein Open-Source-System mit transparenter Entwicklung und Strukturen.
+* Kein Pre-Mining - Qwertycoin ist ein Open-Source-System mit transparenter Entwicklung und Strukturen.
 * Free Master Nodes - Keine notwendige Mindesteinzahlung für den Betrieb von Qwertycoin-Nodes.
 * Free Community Faucet – Free QWC every 24 hours from community donations.
 * Transparente Abläufe und Verwaltung - Alle Konten, die Gemeinschaftsmittel enthalten werden, können mithilfe von "Tracking Keys" überprüft werden.
@@ -49,7 +49,7 @@ _QWERTYCOIN [Ticker: QWC] ist eine digitale Kryptowährung für den täglichen G
 9. [Credits](#credits)
 
 ## Einführung <a name="introduction"></a>
-Qwertycoin (Ticker: QWC) ist eine echte Community-Kryptowährung, ein dezentrales, digitale Blockchain Projekt mit Digitalen Münzen wie Bitcoin. Es basiert auf der CryptoNote-Technologie V2.0. Niemand besitzt oder kontrolliert Qwertycoin. Es ermöglicht anonymen und vertrauenswürdigen Teilnehmern der Blockchain, Transaktionen über einen PoW-Mining-Algorithmus zu validieren, und implementiert in der nahen Zukunft den eigenen EPoSe, ein neues Algorithmus Konzept, dass exklusiv von und für QWC entwickelt. Qwertycoin-Transaktionen sind nicht nachvollziehbar, nicht nachverfolgbar. Ihre Privatsphäre ist geschützt. Komplexe mathematische Verschlüsselungen sichern das QWC-Netzwerk und befähigt sowohl Einzelpersonen als auch Unternehmen, ihre eigenen Finanzen und Informationen zu kontrollieren.
+Qwertycoin (Ticker: QWC) ist eine echte Community-Kryptowährung, ein dezentrales, digitales Blockchain Projekt mit Digitalen Münzen wie Bitcoin. Es basiert auf der CryptoNote-Technologie V2.0. Niemand besitzt oder kontrolliert Qwertycoin. Es ermöglicht anonym und vertrauenswürdig Teilnehmern der Blockchain, Transaktionen über einen PoW-Mining-Algorithmus zu validieren, und implementiert in der nahen Zukunft den eigenen EPoSe, ein neues Algorithmus Konzept, dass exklusiv von und für QWC entwickelt. Qwertycoin-Transaktionen sind nicht nachvollziehbar, nicht nachverfolgbar. Ihre Privatsphäre ist geschützt. Komplexe mathematische Vorgänge sichern das QWC-Netzwerk und befähigt sowohl Einzelpersonen als auch Unternehmen, ihre eigenen Finanzen und Informationen zu kontrollieren.
 
 ### Offizielle Links:
 |Link|Source|
@@ -98,7 +98,7 @@ Es steht jedem frei, sich dem Qwertycoin-Netzwerk anzuschließen und seine Diens
 
 ## Wie man Münzen bekommt [Mining]: Egalitarian Proof of Work (EPoW – Cryptonight Basierte Variante) <a name="howtogetcoinsmining"></a>
 Das Wort egalitär steht für Gleichberechtigung und Chancengleichheit. Das QWC-Netzwerk ist Open Source und wird von Community-Mitgliedern betrieben. Jeder Interessierte kann dem Netzwerk beitreten, es unterstützen und Coins als Entschädigung für die Unterstützung am Mining-Prozess erhalten.
-Die Cryptonote-Technologie V2.0 verfügt über ein integriertes Belohnungssysteme pro Block namens "Emissionsrate". Es handelt sich um eine Form der Protokollfunktion. Aufgrund des ursprünglichen Designs werden die Belohnungen für QWC-Blöcke nach jedem gefundenen Block verringert und erreichen schließlich einen Punkt, der als "tail emission" bezeichnet wird.
+Die Cryptonote-Technologie V2.0 verfügt über ein integriertes Belohnungssystem pro Block namens "Emissionsrate". Es handelt sich um eine Form der Protokollfunktion. Aufgrund des ursprünglichen Designs werden die Belohnungen für QWC-Blöcke nach jedem gefundenen Block verringert und erreichen schließlich einen Punkt, der als "tail emission" bezeichnet wird.
 QWC hat einen Emissionsfaktor von 19. Betrachten Sie die folgenden Grafiken, um zu sehen, wie sich die Blockbelohnungen im Laufe der Zeit verringern.
 
 [Abbildung 3. Reduzierung des Blockrewards pro Blockhöhe]
