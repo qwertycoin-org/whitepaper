@@ -1,3 +1,8 @@
+# New Whitepaper System
+
+https://wp.qwertycoin.org/
+Source: https://github.com/qwertycoin-org/gitbook-wp
+
 ![image](https://github.com/qwertycoin-org/whitepaper/blob/master/assets/images/qwc-github-2.png)
 
 **Qwertycoin is a decentralized peer-to-peer protocol for safe payments worldwide.**
